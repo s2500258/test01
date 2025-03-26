@@ -26,3 +26,4 @@ function fancyAlert(arg){
 
 # 222
 # test from phone 
+# test from GH2
